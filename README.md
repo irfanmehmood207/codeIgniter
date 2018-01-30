@@ -1,4 +1,5 @@
 # CodeIgniter Curd System #
 ## ABOUT PROJECT ##
-.. Curd system in codeIgniter ..
-Implimenting Google Map Api
+1. Curd system in codeIgniter ..
+2. Implimenting Google Map Api..
+3. Pagination library
